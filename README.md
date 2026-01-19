@@ -1,6 +1,3 @@
- <strong>Conragic</strong>
-</h1>
-
 <p align="center">
   <strong>203 Games - Version 1.72</strong><br />
   Fast, reliable, and unblocked as always.
