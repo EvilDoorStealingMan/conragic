@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://github.com/mragic/mragic.github.io/raw/main/Images/AgicLogoNoBg.png" alt="Lol" width="50" />
-  <br />
-  <strong>Conragic</strong>
+ <strong>Conragic</strong>
 </h1>
 
 <p align="center">
