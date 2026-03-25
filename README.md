@@ -7,6 +7,7 @@
 
 ### ⚡ What is Conragic?
 
+**Conragic** is a partner site of https://sites.google.com/invernessroyalacademy.org.uk/mathsclassroom 
 **Conragic** is a fast and reliable gaming site known for **never being blocked**. It checks multiple repositories for games, and links will always work, as long as you live in Scotland  
 And the entire site is built using **100% pure HTML**.
 
